@@ -8,8 +8,8 @@ You may wish to use [Overleaf](http://www.overleaf.com) to type up LaTeX, which 
 
 This templated repository has the following files
 
-* `assignment2_template.tex` - You can edit this for your assignment. If you do, make sure you rename it to `assignment1.tex` so that TA's know which file to compile and grade.
-* assignment2_questions.pdf - These are the questions for the assignment.
+* `assignment2-questions.tex` - You can edit this for your assignment. If you do, make sure you rename it to `assignment1.tex` so that TA's know which file to compile and grade.
+* assignment2-questions.pdf - These are the questions for the assignment.
 
 ## Submission Guidelines
 
