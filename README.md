@@ -4,6 +4,10 @@
 
 You may wish to use [Overleaf](http://www.overleaf.com) to type up LaTeX, which has most of the packages that would be needed. Otherwise, for Macs, you can download [MacTeX](https://www.tug.org/mactex/).
 
+## Dataset
+
+The data used for this homework is in `./data`
+
 ## Homework Template Files
 
 This templated repository has the following files
