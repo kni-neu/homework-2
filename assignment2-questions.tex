@@ -1,6 +1,13 @@
 \documentclass[paper=a4, fontsize=11pt]{scrartcl} % A4 paper and 11pt font size
 
+\newcommand{\assignment}{2}
+\newcommand{\duedate}{January 25, 2023}
 \input{hw-template.tex}
+\author{
+    \textbf{YOUR NAME} \\ 
+    \textbf{YOUR GIT USERNAME} \\ 
+    \textbf{YOUR E-MAIL}
+}% INFORMATION
 
 \begin{document}
 
@@ -36,7 +43,7 @@ Let us use a simple algorithm such that, for each user U, the algorithm recommen
 Please provide a description of how you used Spark to solve this problem. Don’t write more than 3 to 4 sentences for this: we only want a very high-level description of your strategy to tackle this problem. 
 
 \subsection{Tips}
- Use Google Colab to use Spark seamlessly, e.g., copy and adapt the setup cells from Colab 0. 
+ Use Google Colab to use Spark seamlessly, e.g., copy and adapt the setup cells from Colab 2-1, done in class in the second lecture. 
  
 \begin{itemize}
     \item Before submitting a complete application to Spark, you may go line by line, checking the outputs of each step. Command .take(X) should be helpful, if you want to check the first X elements in the RDD. 
@@ -52,7 +59,7 @@ Please provide a description of how you used Spark to solve this problem. Don’
 
 \begin{itemize}
     \item Commit your code to main in Github, and provide the link. We will snapshot and download it. If you created your code in Colab, you can download your Colab as an iPython Notebook by going to \verb"Download" and selecting \verb"Download .ipynb". 
-    \item Include the output file in your respository and call it \verb"output.txt". You can apply the same format as the input format.
+    \item Include the output file in your repository and call it \verb"output.txt". You can apply the same format as the input format.
     \item Your documentation and code's legibility is part of our grading criterion, so please make sure it's readable.
     \item Include your writeup, including a pipeline description with a diagram.
     \item Include in your writeup the recommendations for the users with following user IDs: 924, 8941, 8942, 9019, 9020, 9021, 9022, 9990, 9992, 9993.
