@@ -20,4 +20,4 @@ Here are the starter kits that you might find useful.
 
 ## Submission Instructions
 
-Submit your Colab `*.ipynb`, `output.txt`, and PDF writeup to [this form](https://forms.gle/TNcLEAAYRk62nqNZA) before 5pm Wednesday, February 1, 2023.
+Commit your repository, ensuring that `assignment2.ipynb`, `output.txt`, and `assignment2.pdf` PDF are in obvious locations. Provide the link via [gradescope](https://www.gradescope.com/courses/494275) before 5pm Wednesday, February 1, 2023.
