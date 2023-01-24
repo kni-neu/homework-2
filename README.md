@@ -1,42 +1,23 @@
 # Map Reduce and Data Analysis
 
-## LaTeX Advice
+Please review the homework in this [pdf file](./assignment2-questions.pdf).
 
-You may wish to use [Overleaf](http://www.overleaf.com) to type up LaTeX, which has most of the packages that would be needed. Otherwise, for Macs, you can download [MacTeX](https://www.tug.org/mactex/).
+## What You Will Need
 
-## Dataset
+You will need [the data](./data) and a Google account (in order to use Colab).
 
-The data used for this homework is in `./data`
+## Starter Kit
 
-## Homework Template Files
+Here are the starter kits that you might find useful.
 
-This templated repository has the following files
+* Document templates can be either [Overleaf TeX File](https://www.overleaf.com/read/zfwcfsbbgtxj) or [DOCX File](https://docs.google.com/document/d/1qXipr5Ko2Xpf71GbLzEZXa9khB5w4O2B/edit?usp=sharing&ouid=117230435864186314036&rtpof=true&sd=true). When you've compiled/finished writing, **download the PDF** from Overleaf/Google and upload it to the submission link.
 
-* `assignment2-questions.tex` - You can edit this for your assignment. If you do, make sure you rename it to `assignment1.tex` so that TA's know which file to compile and grade.
-* assignment2-questions.pdf - These are the questions for the assignment.
+* Upload your processed `output.txt` file in the specified format in the [homework questions](./assignment2-questions.pdf).
 
-## Submission Guidelines
+* [Colaboratory Link](https://colab.research.google.com/drive/1tKYd9hQ-MHvjTXyti3FmOQLtpvc1HBfw). When you're ready, give write access to `karl.northeastern@gmail.com` and your TA. Then, change the owner to your TA. \
+  \
+   (For San Francisco students, change ownership to `umeh.k@husky.neu.edu`. For San Jose students, change ownership to `bhalla.pr@husky.neu.edu`.)
 
-At the end of this assignment, your submission will point to a repository, where the following files will be reviewed and subsequently graded:
+## Submission Instructions
 
-* `assignment2.tex` file with your homework writeup
-* `assignment2.pdf` file of the compiled version of your `*.tex` file
-* `assignment2.ipynb` or `assignment2.py` file. This could be downloaded from Colab (if you used Google Colab).
-
-None of the other files in that repository will be reviewed. You can however, have a directory structure for supporting files. For example, the following repository structure could help keep your top level directory clean.
-
-```
-./
-assignment2.tex
-assignment2.pdf
-assignment2.ipynb
-./images
-  graph_for_question-1.jpg
-  results_for_question-2.jpg
-./tex
-  question_2_proof.tex
-./code
-  helper_functions.py
-```
-
-Do _NOT_ include data into your Git repository.
+Submit your Colab `*.ipynb`, `output.txt`, and PDF writeup to [this form](https://forms.gle/TNcLEAAYRk62nqNZA) before 5pm Wednesday, February 1, 2023.
