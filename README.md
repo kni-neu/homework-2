@@ -14,9 +14,8 @@ Here are the starter kits that you might find useful.
 
 * Upload your processed `output.txt` file in the specified format in the [homework questions](./assignment2-questions.pdf).
 
-* [Colaboratory Link](https://colab.research.google.com/drive/1tKYd9hQ-MHvjTXyti3FmOQLtpvc1HBfw). When you're ready, give write access to `karl.northeastern@gmail.com` and your TA. Then, change the owner to your TA. \
-  \
-   (For San Francisco students, change ownership to `umeh.k@husky.neu.edu`. For San Jose students, change ownership to `bhalla.pr@husky.neu.edu`.)
+*  To help you get started, you may find that this [Colaboratory Link](https://colab.research.google.com/drive/1tKYd9hQ-MHvjTXyti3FmOQLtpvc1HBfw) is useful. In order to submit, you'll need to Download the file as a `*.ipynb` file (Under **File** &rarr; **Download** &rarr; **Download .ipynb**.) 
+
 
 ## Submission Instructions
 
